@@ -1,0 +1,9 @@
+Prescription ID: 101
+Name: Darshak bechara
+Address: 123 Long Street, sprigvale south, 3172 Australia
+Sphere: -1.25
+Cylinder: -2.0
+Axis: 90.0
+Examination Date: Wed Oct 23 15:23:35 IST 2024
+Optometrist: Dr. het butai
+Prescription successfully added.
